@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Telegam-blue?logo=telegram&logocolor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://drive.google.com/drive/folders/199WbRBT78Tb4882r3lL97yrrz7m1ji28?usp=sharing">
-    <img src="https://img.shields.io/badge/Googledrive-white?logo=googledrive&logocolor=white" alt="GoogleDrive Badge"/>
+    <img src="https://img.shields.io/badge/Портфолио-white?logo=googledrive&logocolor=white" alt="GoogleDrive Badge"/>
   </a>
 </div>
 <h2 align="center">
