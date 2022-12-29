@@ -16,10 +16,11 @@
 Ключевые навыки
 </h2> 
 <h3 align="center">
-SQL
-Python
-Tableau
-MS Excel (Power Query, Pivot)
-Power BI
+
+SQL,
+Python,
+Tableau,
+Power BI,
+HTML
 </h3> 
 
