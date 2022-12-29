@@ -12,15 +12,15 @@
     <img src="https://img.shields.io/badge/Портфолио-white?logo=googledrive&logocolor=white" alt="GoogleDrive Badge"/>
   </a>
 </div>
-<h2 align="center">
+<h4 align="center">
 Ключевые навыки
-</h2> 
-<h3 align="center">
+</h4> 
+<h5 align="center">
 
 SQL,
 Python,
 Tableau,
 Power BI,
 HTML
-</h3> 
+</h5> 
 
