@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="100"/>
 </div>
+<h3 align="center">
+Привет, меня зовут Павел, 
+</h3> 
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pomelope/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logocolor=white" alt="LinkedIn Badge"/>
