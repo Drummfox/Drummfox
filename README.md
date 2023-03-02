@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="100"/>
 </div>
 <h3 align="center">
-Привет, меня зовут Павел, 
+Привет, меня зовут Павел.🖐 
 </h3> 
 
 <div id="badges" align="center">
